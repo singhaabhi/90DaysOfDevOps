@@ -5,7 +5,7 @@
 ***Jeremy Meiss***
 - [Twitter](https://twitter.com/IAmJerdog)
 - [LinkedIn](https://linkedin.com/in/jeremymeiss)
-- [Dev.to](https://dev.to/jerdog]
+- [Dev.to](https://dev.to/jerdog)  ## This had "]" , instead of ")" which was giving 404 error
 
 ### Overview
 
